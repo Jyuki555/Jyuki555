@@ -1,5 +1,3 @@
-### Hi there 👋 Hello Jyuki555 Page 
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Jyuki555&count_private=true&theme=chartreuse-dark&show_icons=true)
 <!--
 **Jyuki555/Jyuki555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
